@@ -1,0 +1,21 @@
+{
+  "name": "webpack-walkthrough",
+  "version": "1.0.0",
+  "description": "We're making a walkthrough",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "lucyfox",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "mocha-loader": "^0.7.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.0"
+  }
+}
